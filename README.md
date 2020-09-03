@@ -1,3 +1,15 @@
+# React-Redux song selector
+Small Redux introduction app with conditional rendering of selected song's info
+The app is deployed at Netlify, please click [HERE](https://admiring-swirles-0dd061.netlify.app)
+
+## Preview
+![“Sample Selection”](https://github.com/matichmike/react-redux-songs/blob/master/screenshots/song.png?raw=true)
+<br/>
+<br/>
+![“Sample Selection 2”](https://github.com/matichmike/react-redux-songs/blob/master/screenshots/song2.png?raw=true)
+<br/>
+<br/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
